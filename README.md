@@ -3,7 +3,7 @@
 # Nama : Fransiskus Wahyu S
 # NIM : 515-0711-039
 Dalam repo ini terdapat 7 buah file yaitu :
-1. File tutorial (word)  
+1. File tutorial (word) (Fransiskus Wahyu S_IOT UAS_FINAL-Tutorial.docx)
 2. File source code program (Fransiskus_Wahyu_IOT_UAS_FINAL.ino)
 3. File rangkaian di Proteus (Fransiskus_Wahyu_IOT_UAS_FINAL.DSN)
 4. Library EtherCard.h
