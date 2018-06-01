@@ -8,5 +8,5 @@ Dalam repo ini terdapat 7 buah file yaitu :
 3. File rangkaian di Proteus (Fransiskus_Wahyu_IOT_UAS_FINAL.DSN)
 4. Library EtherCard.h
 5. Library Arduino uno untuk Proteus
-6. Link Demo Video via youtube
+6. Link Tutorial dan Demo Video via youtube (YoutubeLink.txt)
 7. Aplikasi Mobile (APK) Kontrol Lampu v.1.0
