@@ -10,3 +10,5 @@ Dalam repo ini terdapat 7 buah file yaitu :
 5. Library Arduino uno untuk Proteus
 6. Link Tutorial dan Demo Video via youtube (YoutubeLink.txt)
 7. Aplikasi Mobile (APK) Kontrol Lampu v.1.0
+
+Project ini disimulasikan menggunakan aplikasi Proteus 7 menggunakan Library Arduino dan menggunakan komponen modul/IC ENC28J60 yang dapat mereplikasi secara virtual ethernet fisik dari komputer. (detail dapat dilihat dalam file Tutorial)
